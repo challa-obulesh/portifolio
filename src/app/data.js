@@ -73,7 +73,7 @@ export const BtnList = [
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/challa-chinna-obulesh",
+    link: "https://www.linkedin.com/in/challa-chinna-obulesh-0a40a1324",
     icon: "linkedin",
     newTab: true,
   },
