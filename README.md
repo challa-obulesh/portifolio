@@ -10,23 +10,8 @@ For Demo checkout following link👇: <br />
 [Nextjs Creative Portfolio Website Demo](https://next-js-creative-portfolio-website.vercel.app/) <br />
 
 ---
-✨ Checkout my brand new Saas application -> [AI Headshot Generator](https://www.smartheadshots.ai)
+✨ Checkout my brand new Saas application -> [AI Headshot Generator](https://www.smartheadshots.ai
 
----
-
-Starter Code Files👇: <br />
-➡ Link 💚: [Nextjs Creative Portfolio Website Starter Code](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files) <br />
-<!--- ➡ Link 2💚(If you want to support): [Nextjs Creative Portfolio Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br /> --->
-
-If you want to learn how to create it please follow below tutorial👇: <br />
-➡ Tutorial Link 💚: [Personal Portfolio Website with Next.js, Three.js & Tailwind CSS Tutorial](https://youtu.be/T5t46vuW8fo) 
-[![YouTube Video Views](https://img.shields.io/youtube/views/T5t46vuW8fo
-)](https://youtu.be/T5t46vuW8fo) <br />
-
-💚 Checkout my personal website [DevDreaming](https://devdreaming.com) <br />
-
----
-# ⭐DO NOT FORGET TO STAR THIS REPO⭐
 ---
 
 ## Images of The Portfolio Website:
