@@ -68,15 +68,16 @@ const AboutDetails = () => {
           />
         </ItemLayout>
 
-        <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
-          <img
+       <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
+           <img
             className="w-full h-auto"
-            src="https://streak-stats.demolab.com?user=challa-obulesh&theme=transparent&hide_border=true&ring=FEFE5B&currStreakLabel=FEFE5B"
+            src="https://streak-stats.demolab.com?user=challachinnaobulesh&theme=transparent&hide_border=true&ring=FEFE5B&currStreakLabel=FEFE5B"
             alt="GitHub Streak Stats"
             loading="lazy"
           />
         </ItemLayout>
 
+  
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <Link
             href="https://github.com/challachinnaobulesh/cosmetic-insights-app-3"
