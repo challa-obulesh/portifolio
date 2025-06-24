@@ -80,14 +80,14 @@ const AboutDetails = () => {
   
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <Link
-            href="https://github.com/challachinnaobulesh/cosmetic-insights-app-3"
+            href="https://github.com/challa-obulesh/portifolio/blob/main/README.md"
             target="_blank"
             className="w-full"
           >
             <img
               className="w-full h-auto"
               src="https://github-readme-stats.vercel.app/api/pin/?username=challachinnaobulesh&repo=cosmetic-insights-app-3&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&description_lines_count=2"
-              alt="Cosmetic Insights App"
+              alt="portifolio web"
               loading="lazy"
             />
           </Link>
