@@ -83,15 +83,16 @@ const AboutDetails = () => {
             href="https://github.com/challa-obulesh/portifolio/blob/main/README.md"
             target="_blank"
             className="w-full"
-          >
-            <img
-              className="w-full h-auto"
-              src="https://github-readme-stats.vercel.app/api/pin/?username=challachinnaobulesh&repo=cosmetic-insights-app-3&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&description_lines_count=2"
-              alt="portifolio web"
-              loading="lazy"
-            />
-          </Link>
-        </ItemLayout>
+           >
+         <img
+           className="w-full h-auto"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=challa-obulesh&repo=portifolio&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&description_lines_count=2"
+            alt="Portfolio Website"
+            loading="lazy"
+         />
+        </Link>
+      </ItemLayout>
+
       </div>
     </section>
   );
