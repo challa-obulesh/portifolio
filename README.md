@@ -1,20 +1,12 @@
-# Next.js Creative Portfolio Tutorial: Build Amazing Portfolio Website with Next.js, Three.js, and Tailwind CSS 🔥
+# 🚀 Challa Chinna Obulesh - Personal Portfolio Website
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Creative-Portfolio-Website?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Creative-Portfolio-Website?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+This is the source code for my **personal portfolio** website, built using **Next.js, Tailwind CSS, Framer Motion, EmailJS, and Three.js**. It showcases my skills, projects, GitHub stats, and contact form, all in a visually appealing and interactive layout.
 
-This repository contains **final code** for Next.js Creative Portfolio website built using Next.js and Three.js. <br />
-
-For Demo checkout following link👇: <br />
-[Nextjs Creative Portfolio Website Demo](https://next-js-creative-portfolio-website.vercel.app/) <br />
-
----
-✨ Checkout my brand new Saas application -> [AI Headshot Generator](https://www.smartheadshots.ai
+> 🔗 Live Portfolio: [https://challa-obulesh.vercel.app](https://challa-obulesh.vercel.app)  
+> 🧠 Built by: [Challa Chinna Obulesh](https://www.linkedin.com/in/challa-chinna-obulesh)
 
 ---
 
-## Images of The Portfolio Website:
 
 #### Home
 ![Nextjs Creative Portfolio Website](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-desktop.png)
@@ -34,56 +26,43 @@ For Demo checkout following link👇: <br />
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-mobile.png)
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-mobile.png)
 
-## Resources Used in This Project
 
-#### 3D Models
+ 
+---
 
-- ["Tim Mckee - Boy Wizard"](https://skfb.ly/6YATu) by [elbertwithane is licensed under Creative Commons Attribution ](http://creativecommons.org/licenses/by/4.0/).
-- ["Stylized wizard hat"](https://skfb.ly/ozxOQ) by [Enkarra is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
-- ["Wizard Staff"](https://skfb.ly/6QYZw) by [Toymancer Studio is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+### 🧰 Tech Stack
 
-#### AI Images
-
-- Created with the help of [Playground AI](https://playgroundai.com/)
-
-#### Github Stats & Details
-
-- [Github ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Skills Icons](https://github.com/tandpfun/skill-icons)
-- [Github Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
-
-#### Development Resources
-
-- Fonts from [Google Fonts](https://fonts.google.com/) <br />
-- Icons from [Lucide Icons](https://lucide.dev/) <br />
-- Notifications from [Sonner](https://sonner.emilkowal.ski/) <br />
-- Form created using [react-hook-form](https://react-hook-form.com/) <br />
-- Animations using [framer-motion](https://www.framer.com/motion/) <br />
-- Emails using [Emailjs](https://www.emailjs.com/) <br />
-- Convert 3d models to JSX using [Gltf JSX](https://github.com/pmndrs/gltfjsx)
-
-#### Audio 
-
-- Music by <a href="https://pixabay.com/users/shidenbeatsmusic-25676252/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20772">Shiden Beats Music</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20772">Pixabay</a>
+- **Frontend:** Next.js 14, Tailwind CSS
+- **3D Assets:** Three.js, @react-three/fiber, gltfjsx
+- **Animations:** Framer Motion
+- **Forms:** react-hook-form, EmailJS
+- **Icons:** Lucide.dev, SkillIcons
+- **Analytics:** GitHub Readme Stats, GitHub Streak Stats
+- **Audio:** Background music (Pixabay, royalty-free)
+- **Deployment:** Vercel
 
 ---
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### 💻 Features
 
-## Getting Started
+- Interactive animated sections with 3D models and smooth scroll.
+- GitHub contribution streak, language stats, and project cards.
+- Real-time contact form integrated with EmailJS.
+- Mobile responsive and visually stunning UI.
+- Project links open directly to GitHub or live demo.
 
-First, install the dependencies and run the development server:
+---
+
+### 📦 Getting Started
+
+To run this project locally:
 
 ```bash
-npm run install # to install all dependencies
+git clone https://github.com/challa-obulesh/portifolio
+cd portifolio
 
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
