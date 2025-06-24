@@ -85,7 +85,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "https://drive.google.com/file/d/1635NHZEtCXUCwXU92BmTYCdyadicx4Bu/view?usp=drivesdk",
+    link: "portifolio/public/Challa resume Academic2_(1).pdf",
     icon: "resume",
     newTab: true,
   },
