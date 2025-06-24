@@ -85,7 +85,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "public/Challa resume Academic2_(1).pdf",
+    link: "/public/Challa resume Academic2_(1).pdf",
     icon: "resume",
     newTab: true,
   },
